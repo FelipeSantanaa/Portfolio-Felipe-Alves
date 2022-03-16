@@ -7551,6 +7551,7 @@ fieldset:disabled .btn {
 
 .py-3 {
   place-content: center;
+  justify-content: center;
   padding-top: 2rem !important;
   padding-bottom: 2rem !important;
 }
