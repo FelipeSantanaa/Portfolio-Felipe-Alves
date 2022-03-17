@@ -46,4 +46,8 @@
     justify-content: center;
     width: 0;
   }
+
+  .py-3{
+    display: block !important;
+  }
 }
